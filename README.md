@@ -1,4 +1,4 @@
-# API_Automation_Rest-Assured
+# Desafio_Dio_API_Automation_Rest-Assured
 
 :page_with_curl: Objetivo do Projeto
 
